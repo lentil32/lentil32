@@ -1,5 +1,0 @@
-** Contents
-Will build a blog, but for now, refer to:
-- [[https://github.com/lentil32/cs50-minimal-setup][CS50 Minimal Setup for macOS and Linux]]
-- [[https://github.com/lentil32/elm-in-svelte][Embed Elm in Svelte with TypeScript]]
-- [[https://github.com/lentil32/wireguard-with-adguard][WireGuard VPN with AdGuard Home in docker compose]]
