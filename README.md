@@ -1,5 +1,4 @@
-[![lentil32's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lentil32)](https://github.com/anuraghazra/github-readme-stats)
-
+![lentil32's Stats](https://github-readme-stats.vercel.app/api?username=lentil32&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ## Contents
 Will build a blog, but for now, refer to:
