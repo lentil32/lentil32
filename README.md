@@ -7,4 +7,4 @@ Will build a blog, but for now, refer to:
 - [WireGuard VPN with AdGuard Home in docker compose](https://github.com/lentil32/wireguard-with-adguard)
 
 ## Contributions
-See below in this page.
+See the Pinned, Contribution, and Contribution activity sections below on this page.
