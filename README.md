@@ -7,4 +7,5 @@ Will build a blog, but for now, refer to:
 - [WireGuard VPN with AdGuard Home in docker compose](https://github.com/lentil32/wireguard-with-adguard)
 
 ## Contributions
-See the Pinned, Contribution, and Contribution activity sections below on this page.
+- [algo-ds](https://algo-ds.com/contributors.html)
+- See the Pinned, Contribution, and Contribution activity sections below on this page. There are some big names.
